@@ -16,7 +16,7 @@
 
 
 
-##  Tech Stack
+##  Technologies Used
 
 -  **React** 
 -  **TypeScript** 
