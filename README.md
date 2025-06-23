@@ -26,36 +26,38 @@
 ---
 
 ## 📸 Screenshots
----
+
 ### Home Screen
 
-![Home Screen](screenshots/home-screen.png)
+## ![Home Screen](Screenshots/Taskify_HomePage.png)
 
----
+
 
 ### Active Tasks
 
-![Active Tasks](screenshots/active-task.png)
+## ![Active Tasks](Screenshots/Taskify_ActiveTasks.png)
 
----
+
 
 ### Edit Task
 
-![Edit Task](screenshots/edit-task.png)
+## ![Edit Task](Screenshots/Taskify_EditTask.png)
 
----
 
-### Complete Task
 
-![Complete Task](screenshots/complete-task.png)
+### Completed Tasks
 
----
+## ![Complete Task](Screenshots/Taskify_CompletedTasks.png)
+
+
 
 ### Strike-through Effect
 
-![Strike-through Task](screenshots/strike-through-task.png)
+## ![Strike-through Task](Screenshots/Taskify_StrikeThrough_CompletedTasks.png)
 
----
+
 
 ### Delete Task
-![Delete Task](screenshots/delete-task.png)
+
+![Delete Task](Screenshots/Taskify_DeleteCompletedTasks.png)
+
