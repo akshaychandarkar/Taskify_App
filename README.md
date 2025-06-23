@@ -2,7 +2,8 @@
 
 ## Overview
 
-**Taskify** is a simple and interactive task management app built using **React** and **TypeScript**. It allows users to manage their tasks effectively with features like adding, editing, completing, deleting, and drag-and-drop functionality.
+**Taskify** is a simple and interactive task management app, just like **To-Do-List**, built using **React** and **TypeScript**. It allows users to manage their tasks effectively with features like adding, editing, completing, deleting, and drag-and-drop functionality.
+
 
 
 ##  Features
